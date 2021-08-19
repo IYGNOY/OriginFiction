@@ -2,11 +2,21 @@
   "summary": {
     "title": "test",
     "owner": "alan",
-    "description": "si"
+    "description": "123"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "123"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "haha",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "alan"
   }
 }
