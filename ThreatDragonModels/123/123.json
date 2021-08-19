@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "123",
+    "owner": "alan",
+    "description": "123"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "haha",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "alan"
+  }
+}
